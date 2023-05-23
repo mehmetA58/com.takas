@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "global_ratings": "4.2 out of 5",
+    "image": "https://i.cnnturk.com/i/cnnturk/75/740x416/62b6c6bed265a206ac24ed57.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Köfte",
+    "price": 1.5,
+    "global_ratings": "5 out of 5",
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/c7an-hero.jpg?width=512&height=384&quality=45"
+  },
+  {
+    "id": 3,
+    "title": "Kahve",
+    "price": 1.0,
+    "global_ratings": "4.3 out of 5",
+    "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2014/11/kahve-cekirdegi-nasil-kavrulur.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Kola",
+    "price": 5,
+    "global_ratings": "4.6 out of 5",
+    "image": "https://bartincaliskanlar.com/thumb.ashx?width=1000&height=1000&Resim=/Resim/153340420.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Cips",
+    "price": 2.0,
+    "global_ratings": "4.8 out of 5",
+    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/813-8690624200492-jpg-8690624200492.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Pilav",
+    "price": 3.5,
+    "global_ratings": "4.1 out of 5",
+    "image": "https://cdn.halktv.com.tr/other/2023/03/22/pilav.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Elma",
+    "price": 0.8,
+    "global_ratings": "4.5 out of 5",
+    "image": "https://www.kaloriver.com/uploads/nutrition/2130/elma.jpg"
+  },
+  {
+    "id": 8,
+    "title": "T-shirt",
+    "price": 10.0,
+    "global_ratings": "3.9 out of 5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Ayakkabı",
+    "price": 50.0,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639372726016847.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Bilgisayar",
+    "price": 1000.0,
+    "global_ratings": "4.4 out of 5",
+    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/honor/thumb/128640-5_large.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Kalem",
+    "price": 0.7,
+    "global_ratings": "4.0 out of 5",
+    "image": "https://m.media-amazon.com/images/I/61HPTHoCUyL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Defter",
+    "price": 2.5,
+    "global_ratings": "4.9 out of 5",
+    "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001975503001-1.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Çanta",
+    "price": 20.0,
+    "global_ratings": "3.7 out of 5",
+    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty148/product/media/images/20210727/14/112992729/175460347/1/1_org_zoom.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Masa",
+    "price": 80.0,
+    "global_ratings": "4.2 out of 5",
+    "image": "https://www.formsmobilya.com/img/products/mdf-masa--1-_26.11.2020_32ecb1f.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Sandalye",
+    "price": 30.0,
+    "global_ratings": "4.6 out of 5",
+    "image": "https://orixhome.com/wp-content/uploads/2022/09/urun-aston-sandalye.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Telefon",
+    "price": 800.0,
+    "global_ratings": "4.3 out of 5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/T%C3%BCrk_Telekom_ankes%C3%B6rl%C3%BC_telefon.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Kitap",
+    "price": 15.0,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://kriterdergi.com/images/news/2020/11/02/kitaplik1.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Deterjan",
+    "price": 4.0,
+    "global_ratings": "4.5 out of 5",
+    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/14619-yetis-sivi-matik-2500-gr-beyazlar-yetis-beyaz-jpg-yetis-beyaz.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Şampuan",
+    "price": 6.0,
+    "global_ratings": "4.1 out of 5",
+    "image": "https://m.media-amazon.com/images/I/51MEKNrLhhL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Diş Fırçası",
+    "price": 2.0,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://www.yesilincir.com/wp-content/uploads/2021/02/bambu-dis-fircasi.jpg"
+  }
+]
