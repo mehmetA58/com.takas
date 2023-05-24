@@ -12,7 +12,7 @@ function Basket({basket,total,resetBasket, products}){
 ) )}
 </ul>
 <div className="total">
-    Total : coin{total}
+    Total : TakasLa bedelin {total} coin
 </div>
 <button className="clearBasket" onClick={resetBasket}>Clear Basket</button>
 </div>

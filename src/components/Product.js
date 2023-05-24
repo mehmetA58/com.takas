@@ -42,7 +42,7 @@ const removeBasket = ()=>{
     <div className="product">
         <img src={product.image}></img>
         <h6>{product.title}</h6>
-        <div className="price">{moneyFormat(product.price)}£</div>
+        <div className="price">{moneyFormat(product.price)} ß</div>
         <div className="global_ratings">{product.global_ratings}
         <i >⭐</i>
         </div>
