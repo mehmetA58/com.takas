@@ -67,7 +67,14 @@ const removeBasket = ()=>{
              .product .img{
                 width:100%;
                 border-radius:25px 25px 0 0;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                height: auto;
+                opacity: 0.3;
             }
+           
+
             .product .h6{
                 font-size:18px;
                 margin-bottom:10px;

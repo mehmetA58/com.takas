@@ -8,21 +8,22 @@ function BasketItem({item, product}){
 </li>
 <style jsx>{`
 .basket-item{
-    padding-bottom:10px;
-    border-bottom:1px solid #ddd;
-    margin-bottom:10px;
-    font-weight: bold;
-    box-shadow: 0 5px 0 rgba(0, 0, 0, 0.1);
-    position: sticky;
-    text-align: center;
-    
+    background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 10px;
+  bottom: 8px;
+  right: 16px;
+  font-size: 18px;
 }
 .basket-item span{
     font-size: 1.2rem;
     font-weight: 600;
     color:#999
     text-align: center;
-
+    
 }
 
 `}</style>
