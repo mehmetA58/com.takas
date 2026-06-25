@@ -1,142 +1,142 @@
 [
   {
     "id": 1,
-    "title": "Sakız",
-    "price": 0.5,
-    "global_ratings": "4.2 out of 5",
-    "image": "https://i.cnnturk.com/i/cnnturk/75/740x416/62b6c6bed265a206ac24ed57.jpg"
+    "title": "iPhone 15 Pro",
+    "price": 849,
+    "global_ratings": "4.8 out of 5",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 2,
-    "title": "Köfte",
-    "price": 1.5,
-    "global_ratings": "5 out of 5",
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/c7an-hero.jpg?width=512&height=384&quality=45"
+    "title": "Sony WH-1000XM5 Kulaklık",
+    "price": 179,
+    "global_ratings": "4.9 out of 5",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 3,
-    "title": "Kahve",
-    "price": 1.0,
-    "global_ratings": "4.3 out of 5",
-    "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2014/11/kahve-cekirdegi-nasil-kavrulur.jpg"
+    "title": "AirPods Pro 2",
+    "price": 219,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 4,
-    "title": "Kola",
-    "price": 5,
+    "title": "Samsung Galaxy Watch 6",
+    "price": 239,
     "global_ratings": "4.6 out of 5",
-    "image": "https://bartincaliskanlar.com/thumb.ashx?width=1000&height=1000&Resim=/Resim/153340420.jpg"
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 5,
-    "title": "Cips",
-    "price": 2.0,
-    "global_ratings": "4.8 out of 5",
-    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/813-8690624200492-jpg-8690624200492.jpg"
+    "title": "Mekanik Klavye",
+    "price": 159,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 6,
-    "title": "Pilav",
-    "price": 3.5,
-    "global_ratings": "4.1 out of 5",
-    "image": "https://cdn.halktv.com.tr/other/2023/03/22/pilav.jpg"
+    "title": "Levi's 501 Original Jean",
+    "price": 89,
+    "global_ratings": "4.5 out of 5",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 7,
-    "title": "Elma",
-    "price": 0.8,
-    "global_ratings": "4.5 out of 5",
-    "image": "https://www.kaloriver.com/uploads/nutrition/2130/elma.jpg"
+    "title": "Nike Air Force 1 '07",
+    "price": 139,
+    "global_ratings": "4.8 out of 5",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 8,
-    "title": "T-shirt",
-    "price": 10.0,
-    "global_ratings": "3.9 out of 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg"
+    "title": "Ray-Ban Wayfarer",
+    "price": 99,
+    "global_ratings": "4.4 out of 5",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 9,
-    "title": "Ayakkabı",
-    "price": 50.0,
-    "global_ratings": "4.7 out of 5",
-    "image": "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639372726016847.jpg"
+    "title": "Deri Sırt Çantası",
+    "price": 75,
+    "global_ratings": "4.3 out of 5",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 10,
-    "title": "Bilgisayar",
-    "price": 1000.0,
-    "global_ratings": "4.4 out of 5",
-    "image": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/honor/thumb/128640-5_large.jpg"
+    "title": "Premium Oversize Hoodie",
+    "price": 55,
+    "global_ratings": "4.6 out of 5",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 11,
-    "title": "Kalem",
-    "price": 0.7,
-    "global_ratings": "4.0 out of 5",
-    "image": "https://m.media-amazon.com/images/I/61HPTHoCUyL._AC_SL1500_.jpg"
+    "title": "Nespresso Vertuo Pop",
+    "price": 229,
+    "global_ratings": "4.8 out of 5",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 12,
-    "title": "Defter",
-    "price": 2.5,
-    "global_ratings": "4.9 out of 5",
-    "image": "https://i.dr.com.tr/cache/500x400-0/originals/0001975503001-1.jpg"
+    "title": "Çelik Termos 500ml",
+    "price": 35,
+    "global_ratings": "4.7 out of 5",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 13,
-    "title": "Çanta",
-    "price": 20.0,
-    "global_ratings": "3.7 out of 5",
-    "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty148/product/media/images/20210727/14/112992729/175460347/1/1_org_zoom.jpg"
+    "title": "El Yapımı Mum Seti",
+    "price": 28,
+    "global_ratings": "4.5 out of 5",
+    "image": "https://images.unsplash.com/photo-1602523961358-f9f03dd557db?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 14,
-    "title": "Masa",
-    "price": 80.0,
-    "global_ratings": "4.2 out of 5",
-    "image": "https://www.formsmobilya.com/img/products/mdf-masa--1-_26.11.2020_32ecb1f.jpg"
+    "title": "Bambu Mutfak Aksesuar Seti",
+    "price": 45,
+    "global_ratings": "4.4 out of 5",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 15,
-    "title": "Sandalye",
-    "price": 30.0,
-    "global_ratings": "4.6 out of 5",
-    "image": "https://orixhome.com/wp-content/uploads/2022/09/urun-aston-sandalye.jpg"
+    "title": "Sukulent Teras Seti",
+    "price": 22,
+    "global_ratings": "4.3 out of 5",
+    "image": "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 16,
-    "title": "Telefon",
-    "price": 800.0,
-    "global_ratings": "4.3 out of 5",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/T%C3%BCrk_Telekom_ankes%C3%B6rl%C3%BC_telefon.jpg"
+    "title": "Manduka Yoga Matı",
+    "price": 79,
+    "global_ratings": "4.6 out of 5",
+    "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 17,
-    "title": "Kitap",
-    "price": 15.0,
+    "title": "Fujifilm Instax Mini 12",
+    "price": 119,
     "global_ratings": "4.7 out of 5",
-    "image": "https://kriterdergi.com/images/news/2020/11/02/kitaplik1.jpg"
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 18,
-    "title": "Deterjan",
-    "price": 4.0,
-    "global_ratings": "4.5 out of 5",
-    "image": "https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/14619-yetis-sivi-matik-2500-gr-beyazlar-yetis-beyaz-jpg-yetis-beyaz.jpg"
+    "title": "Atomic Habits — Kitap",
+    "price": 35,
+    "global_ratings": "4.9 out of 5",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 19,
-    "title": "Şampuan",
-    "price": 6.0,
-    "global_ratings": "4.1 out of 5",
-    "image": "https://m.media-amazon.com/images/I/51MEKNrLhhL._AC_SL1500_.jpg"
+    "title": "Jo Malone London Parfüm",
+    "price": 189,
+    "global_ratings": "4.8 out of 5",
+    "image": "https://images.unsplash.com/photo-1590156206657-aec5fc2ce5f1?q=80&w=600&auto=format&fit=crop"
   },
   {
     "id": 20,
-    "title": "Diş Fırçası",
-    "price": 2.0,
-    "global_ratings": "4.7 out of 5",
-    "image": "https://www.yesilincir.com/wp-content/uploads/2021/02/bambu-dis-fircasi.jpg"
+    "title": "Polaroid Now Kamera",
+    "price": 149,
+    "global_ratings": "4.5 out of 5",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?q=80&w=600&auto=format&fit=crop"
   }
 ]
